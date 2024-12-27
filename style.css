@@ -1,0 +1,11 @@
+#cat-carousel .carousel-indicators [data-bs-target] {
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+}
+hr{
+    color: white;
+}
+.card{
+  margin: 1rem 0.2rem;
+}
